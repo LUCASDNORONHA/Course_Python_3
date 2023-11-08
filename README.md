@@ -17,3 +17,8 @@
 
 Tomei a liberdade de documentar meu aprendizado durante o curso para ilustrar
 minha jornada de aprendizado com a linguagem de programção Python.
+
+
+![Python 3](https://i2.wp.com/www.realmicentral.com/wp-content/uploads/2021/04/Python.png?zoom=2&resize=750%2C375&ssl=1)
+
+
